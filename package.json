@@ -1,6 +1,6 @@
 {
     "name": "meow-launcher-app",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Launcher for Minecraft",
     "main": "build/main/index.js",
     "private": true,
