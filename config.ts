@@ -13,7 +13,7 @@ export const window = {
 export const api = {
     ws: 'ws://45.151.30.183:1371/ws',
     web: 'http://45.151.30.183:1371',
-    // extraToken: token,
+    extraToken: token,
 };
 
 export const appPath = '.aurora-launcher';
